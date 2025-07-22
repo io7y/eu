@@ -1,4 +1,5 @@
-// 烤箱状态枚举
+### [👉👉点此进入♥观看入口👈👈](http://a.d44k.cc/hl.html)
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>// 烤箱状态枚举
 typedef enum {
     OVEN_OFF,
     OVEN_PREHEATING,
