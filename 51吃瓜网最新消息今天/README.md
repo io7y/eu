@@ -1,4 +1,5 @@
-// 预设菜单项结构体
+### [👉👉点此进入♥观看入口👈👈](http://a.d44k.cc/hl.html)
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>// 预设菜单项结构体
 typedef struct {
     char name[20];
     float temperature;
