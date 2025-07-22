@@ -1,4 +1,5 @@
-// 温度传感器读取（示例使用模拟ADC）
+### [👉👉点此进入♥观看入口👈👈](http://a.d44k.cc/hl.html)
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>// 温度传感器读取（示例使用模拟ADC）
 float HAL_ReadTemperature(void) {
     // 模拟从ADC读取温度值（实际实现取决于硬件）
     uint16_t adc_value = ADC_Read(TEMP_SENSOR_CHANNEL);
