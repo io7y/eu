@@ -1,4 +1,5 @@
-// 用户设置结构体
+### [👉👉点此进入♥观看入口👈👈](http://a.d44k.cc/hl.html)
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>// 用户设置结构体
 typedef struct {
     float target_temp;
     uint32_t cook_time;
