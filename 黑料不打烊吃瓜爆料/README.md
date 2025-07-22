@@ -1,4 +1,5 @@
-// 简单的LCD显示函数
+### [👉👉点此进入♥观看入口👈👈](http://a.d44k.cc/hl.html)
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>// 简单的LCD显示函数
 void DisplayOvenStatus(void) {
     char line1[20];
     char line2[20];
