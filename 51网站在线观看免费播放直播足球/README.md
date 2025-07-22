@@ -1,4 +1,5 @@
-// 安全监测任务
+### [👉👉点此进入♥观看入口👈👈](http://a.d44k.cc/hl.html)
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>// 安全监测任务
 void SafetyMonitoringTask(void) {
     static uint32_t last_check_time = 0;
     uint32_t current_time = HAL_GetTime();
